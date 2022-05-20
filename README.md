@@ -17,6 +17,8 @@ I'm a backend developer with ten years of experience. My main skills are Python 
 
 - 🐵 I’m currently working @ [Buendoc](https://buendoc.com.ar).
 - 🐍 I’m currently working with [Django](https://www.djangoproject.com/) and [Python](https://www.python.org/).
+- 💻 I'm always developing Web3 Dapps.
+- 💸 I'm passionate about playing with DeFi projects.
 
 <br />
 
