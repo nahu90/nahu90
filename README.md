@@ -1,7 +1,7 @@
 ## Hello World 👋 I'm Nahuel Fernandez
 I'm a backend developer with ten years of experience. My main skills are Python language, Django frameworks and Django rest framework.
 
-- You can see my CV in @ [Get CV](https://raw.githubusercontent.com/nahu90/nahu90/main/assets/Nahuel_Fernandez.pdf).
+- You can see my CV in @ [Get CV](https://raw.githubusercontent.com/nahu90/nahu90/main/assets/Nahuel_Fernandez_-_Software_Developer.pdf).
 <br/>
 
 <a href="https://www.linkedin.com/in/nahuel-fernandez-7b021b54/">
