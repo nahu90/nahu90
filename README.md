@@ -4,20 +4,9 @@ I'm a backend developer with ten years of experience. My main skills are Python 
 - You can see my CV in @ [Get CV](https://raw.githubusercontent.com/nahu90/nahu90/main/assets/Nahuel_Fernandez.pdf).
 <br/>
 
-<a href="https://twitter.com/naha90">
-<img align="left" alt="Nahuel Fernandez Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
 <a href="https://www.linkedin.com/in/nahuel-fernandez-7b021b54/">
 <img align="left" alt="Nahuel fernandez LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-
-<br />
-
-## About me
-
-- 🐍 I’m currently working with [Django](https://www.djangoproject.com/) and [Python](https://www.python.org/).
-- 💻 I'm always developing Web3 Dapps.
-- 💸 I'm passionate about playing with DeFi projects.
 
 <br />
 
